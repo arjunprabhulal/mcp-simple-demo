@@ -36,7 +36,7 @@ cd mcp-simple-demo
 pip install -r requirements.txt
 
 # Or install packages manually
-pip install mcp-python-sdk llama-index llama-index-tools-mcp requests
+pip install mcp llama-index llama-index-tools-mcp requests
 ```
 
 ## Server Usage
